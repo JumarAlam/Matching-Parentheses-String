@@ -1,2 +1,2 @@
-# Matching-Parenthesis-String
-Algorithm for Matching Parenthesis String Using Stack in C++
+# Matching-Parentheses-String
+Algorithm for Matching Parentheses String Using Stack in C++
